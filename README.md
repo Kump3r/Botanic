@@ -2,11 +2,11 @@
 
 This is a school project written in Django.
 
-To run the project you will need Python and Django installed.
+To run the project you will need Python, Django and Pillow installed.
 
 Just run:
 ```
-python manage.py runserver
+python botanicgarden/manage.py runserver
 ```
 and have fun! :) 
 
